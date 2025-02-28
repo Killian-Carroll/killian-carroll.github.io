@@ -1,0 +1,128 @@
+[
+  {
+    "objectID": "teaching/index.html",
+    "href": "teaching/index.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "[University], [Semester Year]\nBrief description of the course, topics covered, and teaching approach.\nCourse Materials\n\n\n\n[University], [Semester Year]\nBrief description of the course, topics covered, and teaching approach.\nCourse Materials"
+  },
+  {
+    "objectID": "teaching/index.html#courses-taught",
+    "href": "teaching/index.html#courses-taught",
+    "title": "Teaching",
+    "section": "",
+    "text": "[University], [Semester Year]\nBrief description of the course, topics covered, and teaching approach.\nCourse Materials\n\n\n\n[University], [Semester Year]\nBrief description of the course, topics covered, and teaching approach.\nCourse Materials"
+  },
+  {
+    "objectID": "teaching/index.html#teaching-philosophy",
+    "href": "teaching/index.html#teaching-philosophy",
+    "title": "Teaching",
+    "section": "Teaching Philosophy",
+    "text": "Teaching Philosophy\nBrief statement about your teaching philosophy and approach to education."
+  },
+  {
+    "objectID": "projects/index.html",
+    "href": "projects/index.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Brief description of the project, technologies used, and outcomes.\nProject Link"
+  },
+  {
+    "objectID": "projects/index.html#project-title-1",
+    "href": "projects/index.html#project-title-1",
+    "title": "Projects",
+    "section": "",
+    "text": "Brief description of the project, technologies used, and outcomes.\nProject Link"
+  },
+  {
+    "objectID": "projects/index.html#project-title-2",
+    "href": "projects/index.html#project-title-2",
+    "title": "Projects",
+    "section": "Project Title 2",
+    "text": "Project Title 2\n\nBrief description of the project, technologies used, and outcomes.\nProject Link"
+  },
+  {
+    "objectID": "posts/first-post/index.html",
+    "href": "posts/first-post/index.html",
+    "title": "My First Blog Post",
+    "section": "",
+    "text": "This is my first blog post on my new Quarto website. Here I can write about my research, teaching, and other academic interests."
+  },
+  {
+    "objectID": "posts/first-post/index.html#introduction",
+    "href": "posts/first-post/index.html#introduction",
+    "title": "My First Blog Post",
+    "section": "",
+    "text": "This is my first blog post on my new Quarto website. Here I can write about my research, teaching, and other academic interests."
+  },
+  {
+    "objectID": "posts/first-post/index.html#quarto",
+    "href": "posts/first-post/index.html#quarto",
+    "title": "My First Blog Post",
+    "section": "Quarto",
+    "text": "Quarto\nQuarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org.\n\n\nShow code\n1 + 1\n\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Your Name",
+    "section": "",
+    "text": "CV\n  \n  \n    \n     Email\n  \n  \n    \n     Github\n  \n  \n    \n     Twitter\n  \n  \n    \n     LinkedIn\n  \n\n  \n  \n\n\nI am a [Your Position] at [Your Institution]. My research focuses on [Your Research Focus].\n\n\n\nPhD in [Your Field] | [University Name] | [Year]\nMS/MA in [Your Field] | [University Name] | [Year]\nBS/BA in [Your Field] | [University Name] | [Year]\n\n\n\n[Current Position] | [Institution] | [Start Year - Present]\n[Previous Position] | [Institution] | [Start Year - End Year]"
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Your Name",
+    "section": "",
+    "text": "I am a [Your Position] at [Your Institution]. My research focuses on [Your Research Focus]."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Your Name",
+    "section": "",
+    "text": "PhD in [Your Field] | [University Name] | [Year]\nMS/MA in [Your Field] | [University Name] | [Year]\nBS/BA in [Your Field] | [University Name] | [Year]"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Your Name",
+    "section": "",
+    "text": "[Current Position] | [Institution] | [Start Year - Present]\n[Previous Position] | [Institution] | [Start Year - End Year]"
+  },
+  {
+    "objectID": "posts/index.html",
+    "href": "posts/index.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nMy First Blog Post\n\n\n\n\n\n\nnews\n\n\nquarto\n\n\n\nThis is my first blog post on my new Quarto website.\n\n\n\n\n\nFeb 28, 2025\n\n\nYour Name\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "research/index.html",
+    "href": "research/index.html",
+    "title": "Research",
+    "section": "",
+    "text": "My research focuses on [Your Research Focus]."
+  },
+  {
+    "objectID": "research/index.html#overview",
+    "href": "research/index.html#overview",
+    "title": "Research",
+    "section": "",
+    "text": "My research focuses on [Your Research Focus]."
+  },
+  {
+    "objectID": "research/index.html#publications",
+    "href": "research/index.html#publications",
+    "title": "Research",
+    "section": "Publications",
+    "text": "Publications\n\nPeer-Reviewed Journal Articles\n\nAuthor, A., Your Name, & Author, B. (Year). Title of paper. Journal Name, Volume(Issue), pages. DOI\nYour Name, Author, C., & Author, D. (Year). Title of paper. Journal Name, Volume(Issue), pages. DOI\n\n\n\nConference Proceedings\n\nYour Name, Author, E. (Year). Title of paper. Conference Name, Location. PDF"
+  },
+  {
+    "objectID": "research/index.html#current-projects",
+    "href": "research/index.html#current-projects",
+    "title": "Research",
+    "section": "Current Projects",
+    "text": "Current Projects\n\nProject 1 Title\nBrief description of the project, its goals, and significance.\n\n\nProject 2 Title\nBrief description of the project, its goals, and significance."
+  }
+]

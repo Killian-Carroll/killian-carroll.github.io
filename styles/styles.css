@@ -1,0 +1,66 @@
+/* Custom CSS */
+
+/* Profile image on homepage */
+.about-image {
+  background-color: #f8f9fa;
+  padding: 10px;
+  border-radius: 50%;
+}
+
+/* Navbar styling */
+.navbar {
+  font-weight: 500;
+  box-shadow: 0 2px 4px rgba(0,0,0,.1);
+}
+
+/* Typography */
+body {
+  line-height: 1.6;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  margin-top: 1.5rem;
+  margin-bottom: 1rem;
+  font-weight: 700;
+}
+
+/* Link styling */
+a {
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+
+/* Card styling for projects and posts */
+.card {
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  margin-bottom: 1.5rem;
+}
+.card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 20px rgba(0,0,0,0.1);
+}
+
+/* Footer styling */
+.footer {
+  font-size: 0.9rem;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  border-top: 1px solid #e9ecef;
+}
+
+/* Custom button styling */
+.btn-primary {
+  padding: 0.5rem 1.5rem;
+  border-radius: 0.3rem;
+  font-weight: 500;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .about-image {
+    max-width: 200px;
+    margin: 0 auto 2rem auto;
+  }
+}
