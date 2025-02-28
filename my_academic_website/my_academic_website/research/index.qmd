@@ -4,26 +4,31 @@ title: "Research"
 
 ## Overview
 
-My research focuses on [Your Research Focus].
+My research focuses on macroeconomics and fiscal policy.
 
 ## Publications
 
 ### Peer-Reviewed Journal Articles
 
-1. Author, A., **Your Name**, & Author, B. (Year). Title of paper. *Journal Name*, Volume(Issue), pages. [DOI](https://doi.org/xxx)
+1.**Killian Carroll** (2022). Free State to tax State: A century of taxation in Ireland. *Economic and Social Review*, Volume(53), No. 1, Spring 2022. [PDF](https://www.esr.ie/index.php/esr/article/view/1566/667)
 
-2. **Your Name**, Author, C., & Author, D. (Year). Title of paper. *Journal Name*, Volume(Issue), pages. [DOI](https://doi.org/xxx)
+### Working papers
+1. **Killian Carroll** (2024). What climate change means for Ireland's public finances. *Irish Fiscal Advisory Council Working paper series*, Dublin. [PDF](https://www.fiscalcouncil.ie/wp-content/uploads/2024/11/Estimating-monthly-consumer-spending-using-card-payment-data-Killian-Carroll-Fiscal-Council.pdf)
 
-### Conference Proceedings
-
-1. **Your Name**, Author, E. (Year). Title of paper. *Conference Name*, Location. [PDF](files/paper.pdf)
+2. **Killian Carroll**, Eddie Casey, (2023). What climate change means for Ireland's public finances. *Irish Fiscal Advisory Council Working paper series*, Dublin. [PDF](https://www.fiscalcouncil.ie/wp-content/uploads/2023/10/What-climate-change-means-for-Irelands-public-finances-Casey-and-Carroll-2023-Irish-Fiscal-Advisory-Council.pdf)
+3. **Killian Carroll**, Sebastian Barnes, (2023). Saving for Ireland's Future: Building a Sustainable Framework to Fund the State Pension. *Irish Fiscal Advisory Council Working paper series*, Dublin. [PDF](https://www.fiscalcouncil.ie/wp-content/uploads/2023/03/Working-paper-Funding-Irelands-state-pension.pdf)
+4. **Killian Carroll** (2020). Forecasting Ireland’s Macroeconomy: A Large Bayesian VAR Approach. *Irish Fiscal Advisory Council Working paper series*, Dublin. [PDF](https://www.fiscalcouncil.ie/wp-content/uploads/2020/09/Forecasting-Irelands-Macroeconomy.pdf)
 
 ## Current Projects
 
-### Project 1 Title
+### VAT rate pass-through: Evidence from the Irish hospitality and tourism industry
 
 Brief description of the project, its goals, and significance.
 
-### Project 2 Title
+### Tax multipliers: Evidence from a small open economy
+
+Brief description of the project, its goals, and significance.
+
+### The Cyclicality of tax policy
 
 Brief description of the project, its goals, and significance.

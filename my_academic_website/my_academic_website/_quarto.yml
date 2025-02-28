@@ -20,12 +20,6 @@ website:
         href: index.html
       - text: "Research"
         href: research/index.html
-      - text: "Teaching"
-        href: teaching/index.html
-      - text: "Projects"
-        href: projects/index.html
-      - text: "Blog"
-        href: posts/index.html
     right:
       - icon: github
         href: https://github.com/killian-carroll
@@ -45,9 +39,8 @@ website:
 format:
   html:
     theme: 
-      light: [cosmo, styles/light.scss]
-      dark: [cosmo, styles/dark.scss]
-    css: styles/styles.css
+      light: [flatly, styles/flatly.scss]
+      dark: [darkly, styles/darkly.scss]
     toc: true
     code-tools: 
       source: false

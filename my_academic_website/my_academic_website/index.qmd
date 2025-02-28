@@ -9,14 +9,14 @@ about:
   links:
     - icon: file-pdf
       text: CV
-      href: files/your_cv.pdf
+      href: files/CV.pdf
     - icon: envelope
       text: Email
       href: "mailto:killian.carroll@fiscalcouncil.ie"
     - icon: github
       text: Github
       href: https://github.com/killian-carroll
-    - icon: twitter
+    - icon: twitter-x
       text: Twitter
       href: https://twitter.com/killiancarroll_
     - icon: linkedin
