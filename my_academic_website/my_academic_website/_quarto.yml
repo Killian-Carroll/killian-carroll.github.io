@@ -1,5 +1,7 @@
 project:
   type: website
+  resources: 
+        - CV.pdf
   output-dir: _site
   
 website:
@@ -8,6 +10,8 @@ website:
   site-url: "https://killian-carroll.github.io/"
   repo-url: "https://github.com/Killian-Carroll/killian-carroll.github.io"
   favicon: "images/favicon.ico"
+  google-analytics: 
+    tracking-id: "G-5F8CHLZCKD"
   
   navbar:
     title: false
