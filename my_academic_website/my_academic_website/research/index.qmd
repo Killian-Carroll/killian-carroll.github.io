@@ -1,0 +1,29 @@
+---
+title: "Research"
+---
+
+## Overview
+
+My research focuses on [Your Research Focus].
+
+## Publications
+
+### Peer-Reviewed Journal Articles
+
+1. Author, A., **Your Name**, & Author, B. (Year). Title of paper. *Journal Name*, Volume(Issue), pages. [DOI](https://doi.org/xxx)
+
+2. **Your Name**, Author, C., & Author, D. (Year). Title of paper. *Journal Name*, Volume(Issue), pages. [DOI](https://doi.org/xxx)
+
+### Conference Proceedings
+
+1. **Your Name**, Author, E. (Year). Title of paper. *Conference Name*, Location. [PDF](files/paper.pdf)
+
+## Current Projects
+
+### Project 1 Title
+
+Brief description of the project, its goals, and significance.
+
+### Project 2 Title
+
+Brief description of the project, its goals, and significance.

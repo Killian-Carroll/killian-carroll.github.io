@@ -1,0 +1,20 @@
+---
+title: "My First Blog Post"
+description: "This is my first blog post on my new Quarto website."
+author: "Your Name"
+date: "2025-02-28"
+categories: [news, quarto]
+image: "thumbnail.jpg"
+---
+
+## Introduction
+
+This is my first blog post on my new Quarto website. Here I can write about my research, teaching, and other academic interests.
+
+## Quarto
+
+Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
+
+```{r}
+1 + 1
+```

@@ -1,0 +1,65 @@
+project:
+  type: website
+  output-dir: _site
+  
+website:
+  title: "Your Name"
+  description: "Your personal academic website"
+  site-url: "https://yourusername.github.io/yourrepo/"
+  repo-url: "https://github.com/yourusername/yourrepo"
+  repo-actions: [edit, issue]
+  favicon: "images/favicon.ico"
+  
+  navbar:
+    title: false
+    background: primary
+    foreground: light
+    collapse-below: lg
+    left:
+      - text: "Home"
+        href: index.html
+      - text: "Research"
+        href: research/index.html
+      - text: "Teaching"
+        href: teaching/index.html
+      - text: "Projects"
+        href: projects/index.html
+      - text: "Blog"
+        href: posts/index.html
+    right:
+      - icon: github
+        href: https://github.com/yourusername
+      - icon: twitter
+        href: https://twitter.com/yourusername
+      - icon: linkedin
+        href: https://linkedin.com/in/yourusername
+      - icon: envelope
+        href: "mailto:your.email@example.com"
+
+  page-footer:
+    left: |
+      © 2025 Your Name<br>
+      All content licensed under {{< fa brands creative-commons >}}
+      {{< fa brands creative-commons-by >}}
+      {{< fa brands creative-commons-nc >}}
+      {{< fa brands creative-commons-sa >}} 4.0
+    right: |
+      Made with {{< fa brands r-project >}} and [Quarto](https://quarto.org/)<br>
+      Site design inspired by [John Helveston](https://www.jhelvy.com/)
+
+format:
+  html:
+    theme: 
+      light: [cosmo, styles/light.scss]
+      dark: [cosmo, styles/dark.scss]
+    css: styles/styles.css
+    toc: true
+    code-tools: 
+      source: false
+      toggle: true
+    code-fold: true
+    code-summary: "Show code"
+    highlight-style: a11y
+    
+execute:
+  freeze: auto

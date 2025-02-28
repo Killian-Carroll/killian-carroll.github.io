@@ -1,0 +1,25 @@
+---
+title: "Teaching"
+---
+
+## Courses Taught
+
+### [Course Title] - [Course Code]
+
+*[University], [Semester Year]*
+
+Brief description of the course, topics covered, and teaching approach.
+
+[Course Materials](link-to-materials)
+
+### [Course Title] - [Course Code]
+
+*[University], [Semester Year]*
+
+Brief description of the course, topics covered, and teaching approach.
+
+[Course Materials](link-to-materials)
+
+## Teaching Philosophy
+
+Brief statement about your teaching philosophy and approach to education.

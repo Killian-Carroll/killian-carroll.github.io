@@ -1,0 +1,9 @@
+- source: project
+  quarto-pub:
+    - id: your-quarto-pub-id
+      url: https://yourusername.github.io/yourrepo/
+  github:
+    - user: yourusername
+      repo: yourrepo
+      branch: gh-pages
+      render: true

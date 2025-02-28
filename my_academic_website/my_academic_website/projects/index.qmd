@@ -1,0 +1,19 @@
+---
+title: "Projects"
+---
+
+## Project Title 1
+
+![](images/project1_thumbnail.jpg)
+
+Brief description of the project, technologies used, and outcomes.
+
+[Project Link](https://github.com/yourusername/project1)
+
+## Project Title 2
+
+![](images/project2_thumbnail.jpg)
+
+Brief description of the project, technologies used, and outcomes.
+
+[Project Link](https://github.com/yourusername/project2)

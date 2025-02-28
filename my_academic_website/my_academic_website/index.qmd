@@ -1,0 +1,47 @@
+---
+title: "Your Name"
+image: images/profile.jpg
+toc: false
+about:
+  id: hero-heading
+  template: trestles
+  image-shape: round
+  links:
+    - icon: file-pdf
+      text: CV
+      href: files/your_cv.pdf
+    - icon: envelope
+      text: Email
+      href: "mailto:your.email@example.com"
+    - icon: github
+      text: Github
+      href: https://github.com/yourusername
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/yourusername
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/in/yourusername
+---
+
+:::{#hero-heading}
+
+## About Me
+
+I am a [Your Position] at [Your Institution]. My research focuses on [Your Research Focus]. 
+
+## Education
+
+**PhD** in [Your Field] | [University Name] | [Year]
+
+**MS/MA** in [Your Field] | [University Name] | [Year]
+
+**BS/BA** in [Your Field] | [University Name] | [Year]
+
+## Experience
+
+**[Current Position]** | [Institution] | [Start Year - Present]
+
+**[Previous Position]** | [Institution] | [Start Year - End Year]
+
+:::
