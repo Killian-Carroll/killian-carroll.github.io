@@ -22,6 +22,11 @@ about:
     - icon: linkedin
       text: LinkedIn
       href: https://ie.linkedin.com/in/killian-carroll-03207b120
+    - text: "{{< fa brands bluesky >}} Bluesky" 
+      href: https://bsky.app/profile/killiancarroll.bsky.social
+    - text: "{{< fa brands google-scholar >}} Google Scholar"
+      href: https://scholar.google.com/citations?hl=en&user=whquzDkAAAAJ 
+
 ---
 
 :::{#hero-heading}
@@ -32,16 +37,12 @@ I am a Senior Economist at the Irish Fiscal Advisory Council. I am a doctoral ca
 
 ## Education
 
-**PhD** in Economics | University College Dublin | Ongoing
+<i class="bi bi-mortarboard-fill"></i> **PhD** in Economics | University College Dublin | Ongoing
 
-**MSc** in Quantitative Economics | University College Dublin | 2018
+<i class="bi bi-mortarboard-fill"></i> **MSc** in Quantitative Economics | University College Dublin | 2018
 
-**BSc** in Economics and Mathematical Sciences | University of Limerick | 2017
+<i class="bi bi-mortarboard-fill"></i> **BSc** in Economics and Mathematical Sciences | University of Limerick | 2017
 
-## Experience
 
-**[Current Position]** | [Institution] | [Start Year - Present]
-
-**[Previous Position]** | [Institution] | [Start Year - End Year]
 
 :::

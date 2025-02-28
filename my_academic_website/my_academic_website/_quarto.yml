@@ -6,8 +6,7 @@ website:
   title: "Killian Carroll"
   description: "Killian Carroll's personal academic website"
   site-url: "https://killian-carroll.github.io/"
-  repo-url: "https://github.com/yourusername/yourrepo"
-  repo-actions: [edit, issue]
+  repo-url: "https://github.com/Killian-Carroll/killian-carroll.github.io"
   favicon: "images/favicon.ico"
   
   navbar:
@@ -17,30 +16,41 @@ website:
     collapse-below: lg
     left:
       - text: "Home"
-        href: index.html
+        href: index.qmd
       - text: "Research"
-        href: research/index.html
+        href: research.qmd
     right:
+      - icon: envelope
+        href: "mailto:killian.carroll@fiscalcouncil.ie"
+      - icon: linkedin
+        href: https://ie.linkedin.com/in/killian-carroll-03207b120
       - icon: github
         href: https://github.com/killian-carroll
       - icon: twitter
         href: https://twitter.com/killiancarroll_
-      - icon: linkedin
-        href: https://ie.linkedin.com/in/killian-carroll-03207b120
-      - icon: envelope
-        href: "mailto:killian.carroll@fiscalcouncil.ie"
+      - text: "{{< fa brands bluesky >}}" 
+        href: https://bsky.app/profile/killiancarroll.bsky.social
+      
 
   page-footer:
     left: |
       © 2025 Killian Carroll 
     right: |
-      Made with {{< fa brands r-project >}} and [Quarto](https://quarto.org/)<br>
+      <div class="footer-logos">
+        <a href="https://www.fiscalcouncil.ie/">
+          ![Logo 1](images/logo.png){ style="height: 40px; margin-right: 20px;" }
+        </a>
+        <a href="https://www.ucd.ie/economics/">
+          ![Logo 1](https://www.ucd.ie/economics/t4media/crest-ucd.svg){ style="height: 40px; margin-right: 20px;" }
+        </a>
+      </div>
 
 format:
   html:
     theme: 
       light: [flatly, styles/flatly.scss]
       dark: [darkly, styles/darkly.scss]
+    css: styles/stlyes.css
     toc: true
     code-tools: 
       source: false
@@ -49,6 +59,7 @@ format:
     code-summary: "Show code"
     highlight-style: a11y
     anchor-sections: false
+    search: false
     
 execute:
   freeze: auto

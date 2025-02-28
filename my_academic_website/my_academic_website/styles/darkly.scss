@@ -32,7 +32,7 @@ $cyan:    #3498db !default;
 
 // Body
 
-$body-bg:                   $gray-900 !default;
+$body-bg:                   $gray-600 !default;
 $body-color:                $white !default;
 @function body-mix($weight) {
     @return mix($body-bg, $body-color, $weight);
@@ -108,7 +108,7 @@ $nav-tabs-link-active-color:        $body-color !default;
 $nav-tabs-link-active-border-color: $nav-tabs-border-color $nav-tabs-border-color transparent !default;
 
 // Navbar
-$navbar-bg:                         $gray-600 !default;
+$navbar-bg:                         $gray-900 !default;
 $navbar-padding-y:                  1rem !default;
 $navbar-dark-color:                rgba($body-color, .6) !default;
 $navbar-dark-hover-color:          $body-color !default;
