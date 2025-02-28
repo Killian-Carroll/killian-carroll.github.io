@@ -1,9 +1,6 @@
 - source: project
-  quarto-pub:
-    - id: your-quarto-pub-id
-      url: https://yourusername.github.io/yourrepo/
   github:
-    - user: yourusername
-      repo: yourrepo
+    - user: https://github.com/Killian-Carroll
+      repo: https://github.com/Killian-Carroll/killian-carroll.github.io
       branch: gh-pages
       render: true
