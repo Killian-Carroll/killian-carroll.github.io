@@ -3,9 +3,9 @@ project:
   output-dir: _site
   
 website:
-  title: "Your Name"
-  description: "Your personal academic website"
-  site-url: "https://yourusername.github.io/yourrepo/"
+  title: "Killian Carroll"
+  description: "Killian Carroll's personal academic website"
+  site-url: "https://killian-carroll.github.io/"
   repo-url: "https://github.com/yourusername/yourrepo"
   repo-actions: [edit, issue]
   favicon: "images/favicon.ico"
@@ -28,24 +28,19 @@ website:
         href: posts/index.html
     right:
       - icon: github
-        href: https://github.com/yourusername
+        href: https://github.com/killian-carroll
       - icon: twitter
-        href: https://twitter.com/yourusername
+        href: https://twitter.com/killiancarroll_
       - icon: linkedin
-        href: https://linkedin.com/in/yourusername
+        href: https://ie.linkedin.com/in/killian-carroll-03207b120
       - icon: envelope
-        href: "mailto:your.email@example.com"
+        href: "mailto:killian.carroll@fiscalcouncil.ie"
 
   page-footer:
     left: |
-      © 2025 Your Name<br>
-      All content licensed under {{< fa brands creative-commons >}}
-      {{< fa brands creative-commons-by >}}
-      {{< fa brands creative-commons-nc >}}
-      {{< fa brands creative-commons-sa >}} 4.0
+      © 2025 Killian Carroll 
     right: |
       Made with {{< fa brands r-project >}} and [Quarto](https://quarto.org/)<br>
-      Site design inspired by [John Helveston](https://www.jhelvy.com/)
 
 format:
   html:
@@ -60,6 +55,7 @@ format:
     code-fold: true
     code-summary: "Show code"
     highlight-style: a11y
+    anchor-sections: false
     
 execute:
   freeze: auto

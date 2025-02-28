@@ -1,6 +1,6 @@
 ---
-title: "Your Name"
-image: images/profile.jpg
+title: "Killian"
+image: images/headshot2.jpg
 toc: false
 about:
   id: hero-heading
@@ -12,31 +12,31 @@ about:
       href: files/your_cv.pdf
     - icon: envelope
       text: Email
-      href: "mailto:your.email@example.com"
+      href: "mailto:killian.carroll@fiscalcouncil.ie"
     - icon: github
       text: Github
-      href: https://github.com/yourusername
+      href: https://github.com/killian-carroll
     - icon: twitter
       text: Twitter
-      href: https://twitter.com/yourusername
+      href: https://twitter.com/killiancarroll_
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com/in/yourusername
+      href: https://ie.linkedin.com/in/killian-carroll-03207b120
 ---
 
 :::{#hero-heading}
 
 ## About Me
 
-I am a [Your Position] at [Your Institution]. My research focuses on [Your Research Focus]. 
+I am a Senior Economist at the Irish Fiscal Advisory Council. I am a doctoral candidate in economics at University College Dublin. My research focuses interests are in macroeconomics and fiscal policy. 
 
 ## Education
 
-**PhD** in [Your Field] | [University Name] | [Year]
+**PhD** in Economics | University College Dublin | Ongoing
 
-**MS/MA** in [Your Field] | [University Name] | [Year]
+**MSc** in Quantitative Economics | University College Dublin | 2018
 
-**BS/BA** in [Your Field] | [University Name] | [Year]
+**BSc** in Economics and Mathematical Sciences | University of Limerick | 2017
 
 ## Experience
 
