@@ -2,6 +2,7 @@ project:
   type: website
   resources: 
         - CV.pdf
+        - consumption_monitor.html
   output-dir: _site
   
 website:
@@ -23,6 +24,8 @@ website:
         href: index.qmd
       - text: "Research"
         href: research.qmd
+      - text: "Consumption dashboard"
+        href: consumption_monitor.html
     right:
       - icon: envelope
         href: "mailto:killian.carroll@fiscalcouncil.ie"
